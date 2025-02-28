@@ -1,5 +1,5 @@
 -- Description du Projet --
-Le jeu BallGame est une reproduction du jeu Idle Breakout en Python à l'aide de la bibliothèque Pyxel Studio. 
+Le jeu BallGame est codé en Python à l'aide de la bibliothèque Pyxel Studio. 
 Ce projet vise à travailler la maîtrise de la Programmation Orientée Objet.
 Il s'agit d'un projet de type "Simulateur" où vous devez simplement terminer une infinité de niveaux de difficulté croissante en détruisant toutes les briques.
 
